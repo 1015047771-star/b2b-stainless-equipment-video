@@ -1,0 +1,4 @@
+interface:
+  display_name: "B 端不锈钢设备展示宣传片"
+  short_description: "面向采购与技术人员，制作不锈钢工业设备的写实展示、配音字幕及版本修改"
+  default_prompt: "用 $b2b-stainless-equipment-video 为这台不锈钢设备制作或修改宣传片，展示整机、关键结构、用途和已确认功能，使用本项目的品牌信息。"
